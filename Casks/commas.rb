@@ -6,5 +6,5 @@ cask "commas" do
   name "Commas"
   homepage "https://github.com/CyanSalt/commas"
 
-  app "dist/Commas-darwin-x64/Commas.app"
+  app "Commas-darwin-x64/Commas.app"
 end
