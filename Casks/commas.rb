@@ -1,6 +1,6 @@
 cask "commas" do
-  version "0.22.0"
-  sha256 "6a49072b75ae939c50e410c0dd9f648f5b13f72b2fb1e79013b0b001624d7eba"
+  version "0.22.1"
+  sha256 "8ff78dd42a0bfd054b58c9f9c689a40e380390f6f1caede601a6f59151dceafb"
 
   url "https://github.com/CyanSalt/commas/releases/download/v#{version}/Commas-darwin-x64.zip"
   name "Commas"
