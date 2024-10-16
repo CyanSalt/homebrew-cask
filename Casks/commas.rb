@@ -1,9 +1,9 @@
 cask "commas" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.34.0"
-  sha256 arm:   "89c3f0ecc2a47f03a0b4ea8ab8313d87bd412bc6c26b8b07dcd555917477e633",
-         intel: "6aee00a55c9630b1e684e90ec7b3a2b48852bfe427af544124a5b56127de4708"
+  version "0.35.0"
+  sha256 arm:   "8314885c97b047f1839ab6c3616ceaa65e3b16add32fedd9038a54b1f2643682",
+         intel: "a0e145b6905ec2bd4960751e4756c657aa5bafd0afd645fe228150778e5c4934"
 
   url "https://github.com/CyanSalt/commas/releases/download/v#{version}/Commas-darwin-#{arch}.zip"
   name "Commas"
