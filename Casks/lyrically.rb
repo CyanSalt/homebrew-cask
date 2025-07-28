@@ -1,9 +1,9 @@
 cask "lyrically" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.5.0"
-  sha256 arm:   "b4063c18b80d7d431570712782f41febfd4dad2446cdbeca93d839b2197356e1",
-         intel: "2622604ffbfcfd0a28f0cc2750ce6d06e1b2289af63840e9a6984e105a48c2ad"
+  version "0.6.0"
+  sha256 arm:   "2e36b192224466f12164b90bea63aecd8fc34894d200be8df1fa65ca3109c4e1",
+         intel: "6f1aa008a4d44bcc0dc291f7c85a1b20465d785743b2b412d8b371c8abc12db0"
 
   url "https://github.com/CyanSalt/lyrically/releases/download/v#{version}/Lyrically-darwin-#{arch}.zip"
   name "Lyrically"
